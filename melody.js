@@ -1,2 +1,2 @@
-const melody = () => console.log("DJ Kalikote's Melody: Smooth Harmony");
+const melody = () => console.log("BeatMaster Alex's Melody: Funky Bassline");
 melody();
